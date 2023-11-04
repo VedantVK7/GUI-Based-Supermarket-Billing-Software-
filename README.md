@@ -5,6 +5,7 @@ The bill is generated after clicking 'Generate Bill' button. Enter the amount pa
 After bill generation, the billing data is recorded into database & there's an option to print that bill.
 
 Some screenshots
+
 ![ss1](https://github.com/VedantVK7/GUI-Based-Supermarket-Billing-Software-/assets/109784327/172e7e0f-c9c7-42ad-9397-ecdbebe92954)
 ![ss5](https://github.com/VedantVK7/GUI-Based-Supermarket-Billing-Software-/assets/109784327/880995cc-f3ba-4f52-b2fb-82fc49292075)
 ![ss4](https://github.com/VedantVK7/GUI-Based-Supermarket-Billing-Software-/assets/109784327/7387aecb-c620-4ad4-9bcc-5b530b932111)
